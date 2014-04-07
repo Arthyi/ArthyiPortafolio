@@ -2,11 +2,11 @@
 .menu_block  {
 	position: relative;
 	position: absolute;
-	background-color: #ec0606;
+	background-color: rgba(4, 80, 93, .4);
 	z-index: 999;
 	min-width: 211px;
 	border-right: 2px solid #fff;
-	border-bottom: 2px solid #fff;
+	border-bottom: 2px solid #000;
 	padding-left: 17px;
 	padding-bottom: 20px;
 }

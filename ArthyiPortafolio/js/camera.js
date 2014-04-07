@@ -49,7 +49,7 @@
 		
 		navigation			: true,	//true or false, to display or not the navigation buttons
 		
-		navigationHover		: true,	//if true the navigation button (prev, next and play/stop buttons) will be visible on hover state only, if false they will be visible always
+		navigationHover		: false,	//if true the navigation button (prev, next and play/stop buttons) will be visible on hover state only, if false they will be visible always
 		
 		mobileNavHover		: true,	//same as above, but only for mobile devices
 		
